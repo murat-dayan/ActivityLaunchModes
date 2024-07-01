@@ -6,11 +6,9 @@
 
 [Launch Modes Medium Article](https://medium.com/@muratdayan359/android-activity-launch-modes-b2f59c742f96)
 
+---------------------------------------------------------------------------------------------------------------------------------------
 
 
-            Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
